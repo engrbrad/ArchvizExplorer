@@ -1,23 +1,26 @@
 # Notes
 
-## Loose ideas
-- Cassian's own ability is still undefined — intended to be flashy/combat-capable as a contrast to Leandro's utility skillset, so he can be "the face" of the duo in fights/negotiations. Needs a name, mechanic, and backstory.
-- The fire mage ally and Althea's strongest adventurer are both name-TBD, appearance-TBD — currently just concepts tied to "not present when the capital falls."
-- Possible callback moment planned: Leandro eventually learning the specific fates of Rasmin and/or Yolanda after the palace falls, to give the background-news reveal real emotional weight instead of being purely abstract.
-- Running gag bank (established during brainstorming, not all used yet): him giving "safety data sheet"-style explanations for mundane magic things; Cassian narrating Leandro's abilities to strangers in the most inappropriate framing possible; misunderstandings from people assuming he must be abusing the Phase ability when he isn't.
+*Updated through ch89.*
+
+## How this pass was done (important context for future edits)
+This update was built from a 5,453-line raw chat transcript containing ~89 chapters interleaved with the author's instructions and the assistant's meta-commentary. The chapters were split out programmatically and cleaned, then a representative sample (~20 of the 89) was read closely to update the bible/outline accurately: ch01, ch02, ch04–05 (already had these), ch08–11, ch14, ch16, ch20–23, ch27, ch33, ch42, ch45, ch54, ch57, ch58, ch60, ch65, ch66a/b, ch85, ch87, ch88, ch89. **Chapters not closely read this pass:** ch12–13, ch15, ch17–19, ch24–26, ch28–32, ch34–41, ch43–44, ch46–53, ch55–56, ch59, ch61–64, ch67–84, ch86. Their content is only known from chapter titles. If you want the bible fully accurate, those still need a close read — flagging this explicitly rather than guessing at their contents.
 
 ## Continuity flags
-- [ ] Chapter 1 originally used the name **"Leo Cortez"** before the author renamed the MC to **Leandro Valdez**. The manuscript files have already been normalized to Leandro Valdez throughout ch01 for consistency — double-check no stray "Leo"/"Cortez" references creep back in during edits.
-- [ ] The kingdom name was originally **"Doravent"** before being locked to **Althea**. Already normalized in ch01–02 text — watch for this in future drafting sessions, especially if referencing early brainstorming by memory.
-- [ ] Chapter 6 is a POV interlude (Demon Kin side) and is NOT synced to a specific day on Leandro's personal timeline — it's placed narratively after his first weeks in Millbrook-adjacent work per the closing paragraph, but no exact date. Pin this down if precise chronology ever matters (e.g., a "meanwhile" caption).
-- [ ] Chapter 7 cuts off mid-sentence ("bigger problems than an old…") — needs to be finished before moving on to later arcs. Petra's "but" is the seed for Millbrook's real problem (cause TBD — bandit pressure? monster activity? something tied to the cave itself?).
-- [ ] World geography (exact distances/directions between Selvane, Kaldreth, Bremmor, Ostwick, and the neighboring kingdoms) is only loosely defined — fine for now, but should be nailed down with an actual map before travel times/logistics become plot-relevant.
-- [ ] Storage Box's unlock mechanism inside the Millbrook cave hasn't been designed yet (what's actually down there, why it grants the ability, any guardian/trial, connection to a "prior otherworlder").
-- [ ] Decide when the reader learns Millbrook connects to a prior person with similar abilities (if at all) — currently just implied by Storage Box's unlock method.
+- [ ] **Chapter numbering anomaly at 66:** two consecutive blocks were both labeled "Chapter 66" with different titles — "The Long Walk Back" (Leandro's POV, his 3-day walk after the fortress bombing) and "The Empty Throne" (Demon Kin POV, the Court's reaction). Saved as separate files `ch66a-the-long-walk-back.md` and `ch66b-the-empty-throne.md`. Every chapter number from 67 onward may be off by one from what the author "intended" numerically — not fixed automatically since renumbering 20+ files risks introducing errors; do this deliberately if/when it matters.
+- [ ] **Revised chapters:** ch60 ("Ashes of Selvane"), ch65 ("Launch"), and ch85 ("Aldervine") each had an earlier draft superseded by a revised version in the transcript. Only the final/revised version was kept as canonical in the manuscript folder. The earlier drafts were discarded, not archived — if you want to compare versions, they're still in the original uploaded transcript.
+- [ ] **Earth Shaping ownership is ambiguous.** The original locked skill plan gave Leandro a slow, construction-only "Earth Shaping" ability, learned gradually. In ch33, it's **Cassian** who has "his earth affinity" flare to make a defensive stone wall mid-combat — combat use, not construction-only, and attributed to Cassian, not Leandro. Either this is an intentional addition to Cassian's kit (on top of his soul-bound sword), or a slip where Leandro's planned ability got attributed to the wrong character. Worth deciding explicitly and, if it's a slip, deciding whether to retcon it in a later pass.
+- [ ] Two "Chapter 2" blocks existed in the raw transcript (an original "Lessons" draft and a version with just a kingdom-name correction note attached) — merged into the single existing `ch02-lessons.md` from the prior organizing pass; no content lost, just a naming correction (Doravent → Althea) folded in.
+- [ ] Rasmin and Yolanda's fates after Selvane's fall — flagged as unconfirmed in the chapters read this pass. Check ch57–84 (not closely read) before assuming they're alive or dead; the original plan wanted this handled as a deliberate emotional beat, so it may already be addressed somewhere in the unread middle chapters.
 
-## Questions to resolve
-- Exact cause of Millbrook's "bigger problems" (Petra's unfinished line in ch07).
-- Cassian's ability and full backstory.
-- Names and first appearances for the fire mage and Althea's strongest adventurer.
-- Timing: how soon after the palace falls does Leandro learn about it, and how (rumor, a specific messenger, a returning Cassian contact)?
-- Whether Rasmin and/or Yolanda survive the palace's fall — decide before writing that reveal, since it changes the emotional weight significantly.
+## Loose ideas / threads noticed but not yet resolved on-page
+- Ophelia (dragon stones source) — introduced by name only, no scene yet in the chapters read.
+- Cassian's House Ashford backstory — Leandro knows, Cassian doesn't know Leandro knows. Ripe for a confrontation/reveal scene.
+- Malgorath (Second Seat) is built up as an enormous unaddressed threat — currently inert. Decide if/when he becomes active.
+- The dramatic irony of Morvain deliberately managing Seraphina as a distraction — she doesn't know. Could pay off as a betrayal-shaped reveal later.
+- The original planned "few people know Leandro was the ritual's actual result" secrecy — worth checking whether this still holds now that he's infamous enough (even anonymously) to have destroyed a fortress and killed a Demon King; his own precautions in ch85 (disguise, avoiding being connected to "an unusually capable, foreign-accented stranger") suggest he's actively managing this, but the underlying secret (that he was the failed summon) hasn't been shown resurfacing as a liability yet.
+
+## Questions worth asking the author directly (not assumed/answered here)
+1. Is the shift from comedy/adventure into war-tragedy intentional, or has the story drifted further than planned? (See plot/outline.md "Tone drift.")
+2. Should the ch66 numbering be fixed now or later?
+3. Does Leandro's team ever learn about the deception in the ch89 production run — and if so, does the story treat that as a betrayal that costs him something?
+4. Is Doran's party's death meant to be reversible in any way (resurrection magic, a twist that they're not really dead), or is it meant to be a permanent, story-defining loss?

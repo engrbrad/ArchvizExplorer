@@ -1,37 +1,47 @@
 # Timeline
 
-## Backstory (before the story starts)
-| When | Event |
-|------|-------|
-| ~7 years before ch01 | Althea's shrine begins preparing the Hero summoning ritual (twin-moon alignment, blood-sealed circle) |
-| Years prior, ongoing | Demon Kin war council quietly engineers bandit uprisings along Althea's border to thin its garrisons |
+*Updated through ch89. This replaces the previous "planned future beats" speculation with what actually happened on the page — the story has moved well past the original outline.*
 
-## Main story (Leandro's POV, story-time)
-| Story point | Chapter(s) | Event |
-|---|---|---|
-| Day 0 | ch01 | Leandro, mid-errand in a grocery store on Earth, is pulled through the Veil by Althea's misfiring Hero ritual. Meets Elder Rasmin and the shrine circle. Learns the summoning cannot be reversed. |
-| Day 1 | ch02 | Breakfast, first real conversation with Rasmin about the world's structure (kingdoms, monsters, mana corruption, the Demon Kin threat). |
-| Day 3 (~2 days later) | ch02 | First water-magic test with Yolanda — confirmed low-Novice affinity, unusually clean control. |
-| Weeks 1–4 | ch03 | One month of training montage: daily practice with Yolanda, world/history lessons with Rasmin, steady (small) improvement in water control. |
-| End of Month 1 | ch03 | The crown offers Leandro a palace/academy position. He declines, choosing to travel and gather firsthand knowledge instead. Given supplies, coin, a letter of introduction, and Cassian's name. |
-| Shortly after | ch04 | Meets Cassian in Selvane's capital tavern. Registers at the adventurer's guild as **E-rank**, low-Novice water affinity. Takes small, low-risk jobs. |
-| ~2 weeks later | ch04 | The tech-restraint conversation with Cassian (declines to introduce advanced weapons/tech). Takes the D-rank Millbrook-adjacent farming village contract (livestock deaths, missing child) — encounters the **three-horn bear**. Phase ability triggers three times involuntarily; third trigger knocks him unconscious. Cassian solo-finishes the bear. |
-| Same day, hours later | ch05 | Leandro wakes in the cart. Missing child found safe (unrelated to the bear). Contract closed as a technical success. |
-| 3 days later | ch05 | Back in Selvane: Leandro asks Cassian to keep the phase ability secret. Cassian agrees. |
-| — (undated, "sometime after") | ch07 | Guild posts an ancient-cave survey commission near Millbrook. Leandro and Cassian take it, arrive after 3 days of travel. Village found to be in disrepair despite the nearby discovery; Elder Petra about to explain "bigger problems" when the draft cuts off. |
+## Main story (Leandro's POV)
+| Chapters | Event |
+|---|---|
+| ch01–05 | Isekai incident, training month, declines crown job, registers as E-rank adventurer, three-horn bear fight, first phase discovery, chooses to hide it. |
+| ch07–11 | Millbrook: fixes the well/fields (ch08), survives the ancient cave's traps (ch09), loses two guild surveyors to the final chamber's warding trap, gains the soul-bound storage ring; Cassian gains his soul-bound sword (ch10). Reports honestly to Guildmaster Voss (ch11), who suspects an incomplete story but lets it go. |
+| ch12–13 | Testing ground / quiet season — consolidation time, not deeply read for this pass. |
+| ch14 | Ostwick: fixes the eastern lock gate with Yara. First hears of "the Ember Blade" (Seraphina) by reputation. |
+| ch15 | "What the Ground Remembers" — not deeply read this pass. |
+| **ch16** | **The Fall of Selvane.** Demon Kin strike the capital directly. King and inner court dead. Voss dies holding the evacuation gate, killing the Ninth Seat and wounding Kaelthorn (Twelfth Seat) before falling. Leandro's guilt fully surfaces. |
+| ch17–19 | Aftermath / reinforcements / steady ground — not deeply read this pass. |
+| ch23 | Leaves Althea for Aldenreach, seeking combat capability and broader worldview. |
+| ch24–42 | Brindlemark dungeon arc. Joins Doran's established party (Doran, Ilyana, Percival, Bram, Ferrin). Pushes from floor 16 to floor 51+, including the floor-46 broodmother nest (ch33). Parts ways amicably with Doran's party after floor 51 (ch42) — they independently decide to head toward the war front too. |
+| ch43–46 | Travels to Ravencourt, hears Seraphina is holding a defensive pass three days west. |
+| ch47–53 | Not deeply read this pass — likely early weapon-concept development, meeting Mirelle, "More Names" (ch49) suggests further contacts (Ophelia?). |
+| ch54 | Borgrim Ironhelm recruited via Doran's letter; begins forging device housings. |
+| ch55–56 | Workshop / first sparks — device development begins in earnest. |
+| **ch57** | **The Island test.** A full-scale device test erases an entire island. Confirms the weapon is a chain-reaction, nuclear-analog device, far beyond what anyone intended. Leandro concludes ordinary crystals are too unstable and starts seeking dragon stones. |
+| ch58–59 | Splits the team: Borgrim/Mirelle continue containment work; Leandro/Cassian head to Selvane's ruins to search the palace vault for dragon stones, with Seraphina providing intelligence support. |
+| **ch60** | **Ashes of Selvane (revised).** Party (Leandro, Cassian, Doran's party, Seraphina) fights and kills Threxis, the Eighth Seat, in the ruins. Bram loses his arm but survives. |
+| ch61–64 | Not deeply read this pass — likely finalizing the device, planning the fortress strike. |
+| **ch65** | **Launch.** Leandro solo-infiltrates a Demon Kin fortress by glider, plants the device, barely survives the shockwave on his escape. |
+| ch66a | "The Long Walk Back" — Leandro's 3-day injured walk to safety; learns from soldiers that "the Demon King is dead," not yet realizing at the time that this was his own doing. |
+| ch66b | "The Empty Throne" (Demon Kin POV) — Vharek and the Court react to the sudden, unexplained destruction of the central keep and the Demon King's death. |
+| ch67–84 | Not deeply read this pass — likely covers the political fallout of the Demon King's death across both human and Demon Kin sides, Bram's recovery/reunion with his party, and the lead-up to Aldervine. Chapter titles suggest: premature celebration, closed borders, a "court without a crown," ghost/threads-in-the-dark intelligence threads, a "long way around," and a return to ordinary life before it's shattered again. |
+| ch85–86 | Scouts and helps rebuild Aldervine; discovers (but doesn't reveal he knows) Cassian's likely hidden identity as House Ashford's disappeared son. |
+| **ch87** | **Silence from the North.** Doran's entire party (Doran, Ilyana, Percival, Bram) found murdered near Corren's Watch, staged to look like a Demon Kin ambush. |
+| **ch88** | **Following the Thread.** Traces the killing to a cross-kingdom noble shell-company conspiracy skimming war-supply grain, which Doran had been investigating. Leandro spirals into an obsessive, sleepless plan to wipe out the entire network in one indiscriminate strike at an upcoming summit (~6 weeks out) — stopped by Mirelle's and Cassian's intervention before committing. |
+| **ch89** | **The Plan He Chose Instead.** Settles on a "more measured" plan of multiple smaller, warned, targeted strikes instead — but begins deceiving Borgrim and (functionally) Mirelle about the true scope of a 12-device production run. **Current end of the draft.** |
 
-## Parallel timeline (Demon Kin POV — not synced to a specific story-day yet)
-| When (relative) | Chapter | Event |
-|---|---|---|
-| Some time after Leandro's arrival — narrated in ch06, but not pinned to an exact story-day | ch06 | War council scene: General Vharek Dromm confirms (via informants in the shrine network) that the Hero ritual failed and the crown is hiding it. Decides to strike Althea's capital directly rather than continue border skirmishes. Estimated prep time: **"months, perhaps a year"** from this point. |
+## Demon Kin POV (parallel thread)
+| Chapters | Event |
+|---|---|
+| ch06 | Vharek Dromm's war council plans the Selvane strike, banking on the crown's cover-up of the failed Hero ritual. |
+| ch16/ch20 | Selvane falls; the Ninth Seat is killed and Kaelthorn (Twelfth) badly wounded by Voss. |
+| ch21 | Full Court roll-call: Morvain (Fourth Seat) running the engineered-migration distraction against Seraphina; Threll (Sixth Seat) running long-term human-side infiltration, flags Ravencourt's academy is starting to ask the right questions. |
+| ch22 | Malgorath (Second Seat) introduced — vast, ancient, deliberately disengaged from the war. Vharek privately worried about how uncontrolled his own Court's varied agendas have become. |
+| ch60 (from human POV) | Threxis (Eighth Seat) killed at Selvane's ruins. |
+| ch66b | The Demon King's death lands on the Court — Vharek among the first to arrive at the wrecked fortress. |
 
-## Planned future beats (not yet written — for continuity, not canon prose yet)
-- Demon Kin invasion escalates; multiple places get attacked, forcing Leandro to realize he needs to actively help beyond his current town.
-- Because he's still combat-weak, this help must be indirect/anonymous — this is the trigger for his shift into **shadow work**.
-- Selvane's palace is eventually destroyed by the Demon Kin, in part because a real Hero was never in place. This happens as **background news** Leandro hears about later, not a scene he's present for.
-- Very few people know Leandro was the actual (failed) summon result, since the crown suppressed the ritual's failure — this secrecy is what lets him disappear from the historical record and avoid being hunted/blamed after the palace falls.
-- Leandro will feel guilt over the palace's fall, quietly wondering (never definitively answered in-story) whether a "real" Hero would have changed the outcome.
-- Him leaving Selvane to travel (ch03's decision) turns out, in hindsight, to be the single decision that keeps him alive — reinforcing that his survival instinct (distrust of secondhand information, wanting to see things firsthand) saved him, not luck.
-- Storage Box unlocks via the Millbrook ancient cave arc (in progress as of ch07).
-- Earth Shaping is learned gradually at some point after Water Manipulation, before Storage Box.
-- He'll meet stronger allies in other cities (starting with the fire mage, tentatively based in Ravencourt) once the shadow-work phase begins.
+## Open chronological questions
+- Exact dates/story-days are not tracked precisely past the first month; treat chapter order as the only reliable sequence.
+- Rasmin and Yolanda's fates after Selvane's fall are still unconfirmed on-page in the chapters read for this pass — check ch57–84 more closely, since the original plan explicitly wanted this as a deliberate emotional beat.
+- The "six weeks" countdown to the noble conspiracy's summit (set in ch88) is the current active ticking clock as of ch89.
